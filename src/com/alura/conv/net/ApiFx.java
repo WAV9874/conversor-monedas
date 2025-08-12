@@ -15,7 +15,7 @@ import java.util.Map;
 public class ApiFx {
 
     // Puedes moverla a variable de entorno si lo prefieres
-    private static final String API_KEY = "f64579d41c3f8c49343f55d5";
+    private static final String API_KEY = "f64579d41c3f8c49343f55d";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     private final HttpClient http = HttpClient.newBuilder()
